@@ -72,8 +72,8 @@ class vechical_service_DBAdmin(models.Model):
 
 
 ## OUTPUT
+<img width="1887" height="1002" alt="image" src="https://github.com/user-attachments/assets/d346419f-b4d2-4453-8e8c-bf85139321fd" />
 
-<img width="1516" height="646" alt="Screenshot 2026-10-27 204146" src="https://github.com/user-attachments/assets/55691576-531e-4732-8e23-3cdd4b234ffd" />
 
 
 ## RESULT
